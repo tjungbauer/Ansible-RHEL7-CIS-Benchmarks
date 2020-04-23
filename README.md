@@ -1,5 +1,7 @@
-HarryHarcourt.Ansible-RHEL7-CIS-Benchmarks
+tjungbauer.Ansible-RHEL7-CIS-Benchmarks
 =========
+
+Forked from: HarryHarcourt.Ansible-RHEL7-CIS-Benchmarks
 
 All credit goes to anthcourtney for the original framework found here: https://github.com/anthcourtney/ansible-role-cis-amazon-linux
 

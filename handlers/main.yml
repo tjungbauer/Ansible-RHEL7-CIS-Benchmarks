@@ -29,6 +29,7 @@
     name: snmpd
     state: restarted
 
+# using command to restart audtid 
 - name: Restart auditd
   command: /usr/sbin/service auditd reload
 

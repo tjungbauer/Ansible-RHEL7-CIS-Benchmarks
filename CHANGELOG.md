@@ -1,3 +1,7 @@
+Forked Thomas Jungbauer (24-04-2020)
+* cleanup and organized
+* moved 1.1.1.8 to level 2
+
 1.1.37 (2019-12-6)
 * Updating handlers/main.yml for the auditd service reload, changed to a command (as it is recommended rather than changing and option in the auditd service file itself to allow (thus updating the OS)
 * Updating var/main.yml to add 7.7 as validated versions and removed 7.0 for RHEL
